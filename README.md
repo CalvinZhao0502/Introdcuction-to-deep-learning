@@ -1,2 +1,2 @@
 # Introdcuction-to-deep-learning
-The stat157 of Berkeley，reference to Dive into Deep Learning(D2L)
+The STAR157 course of Berkeley，reference to the book ##Dive into Deep Learning(D2L)
